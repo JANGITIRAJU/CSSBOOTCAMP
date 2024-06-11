@@ -1,0 +1,44 @@
+.box{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(159, 252, 224);
+    width  : 600px;
+    margin  : 60px auto ;
+    height : 450 ;
+    border-radius : 6px ;
+    padding : 40px ;
+
+}
+
+.heading{
+    font-size: 60px;
+    box-sizing: border-box;
+    font-size: 35px;
+    padding-top: 40px;
+    padding-bottom: 3px;
+
+
+}
+.heading2{
+    font-size: 15px;
+    padding-bottom: 5px;
+}
+
+
+.button-style{
+    background-color: white;
+    border-radius: 40px;
+    padding : 10px 50px;
+    width : 100px;
+    height: 50px;
+    font-size: 15px;
+    text-align:center ;
+    justify-content: center;
+    content: icon;
+}
+.button{
+    font-size: 15px;
+    border-left: 50px;
+    box-sizing: 10px;
+    
+    
+}
